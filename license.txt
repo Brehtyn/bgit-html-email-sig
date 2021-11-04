@@ -1,5 +1,7 @@
 The MIT License (MIT)
 
+Special thank you to https://htmlemail.io/, original license here:
+
 Copyright (c) [2013] [Lee Munroe]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
