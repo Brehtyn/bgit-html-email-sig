@@ -6,7 +6,6 @@ Hanna IT's email signature.
 
 ## Acknowledgements
 
- - [Customized for HannaIT by : ](Brentyn)
  - [Source that this code was created from](https://htmlemail.io/)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
