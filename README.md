@@ -1,7 +1,7 @@
 
-# BGTL-HTML-EMAIL-SIGNATURE
+# HTML-EMAIL-SIGNATURE
 
-Bigital's HTML Email Signature, which acts as a skeleton for future email signatures.
+HTML Email Signature, which acts as a skeleton for future email signatures.
 
 
 ## Acknowledgements
