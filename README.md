@@ -21,7 +21,10 @@ Then do the following in the textbox.
   paste said contents in the email client's signature textbox
 ```
 
-I'm not kidding, this is the way.
+I'm not kidding, this is the way. 
+
+![Installation Gif](https://github.com/Brehtyn/html-email-signature/blob/main/installation.gif?raw=true)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
